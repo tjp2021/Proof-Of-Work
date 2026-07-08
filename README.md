@@ -10,7 +10,7 @@ I run Claude Code as my daily driver. Each of the systems below is something I b
 |---|---|---|
 | **[CallScore](case-studies/callscore.md)** | 8+ sales calls scored, growing weekly | Audio in, sales scorecard out. Six-stage pipeline with a rubric I can tune. |
 | **[X Bookmark Knowledge Graph](case-studies/bookmark-knowledge-graph.md)** | 1,962 bookmarks → synthesized graph | Daily backfill. Synthesis schema + index layer. Architecture for any lead-signal intelligence layer. |
-| **[Brand Voice from 338k Words of Audio](case-studies/brand-voice-pipeline.md)** | 147 recordings, 338,082 words | Audio → analyzed → AI system prompt loaded as a Claude rule. Voice-grounded writing without generic-AI sound. |
+| **[Brand Voice from 338k Words of Audio](case-studies/brand-voice-pipeline.md)** | 147 recordings, 338,082 words | Audio → analyzed → AI system prompt loaded as a Claude rule. Voice-grounded writing without generic-AI sound. *Code: [tjp2021/brand-voice](https://github.com/tjp2021/brand-voice)* |
 
 ## Other things I run
 
