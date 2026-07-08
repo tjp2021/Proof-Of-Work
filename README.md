@@ -1,6 +1,6 @@
 # Proof of Work
 
-Tim Hieshima. I build and operate AI systems for go-to-market work.
+Timothy Joo. I build and operate AI systems for go-to-market work.
 
 I run Claude Code as my daily driver. Each of the systems below is something I built, operate, and use — not a demo, not a prototype.
 
@@ -32,6 +32,5 @@ I run Claude Code as my daily driver. Each of the systems below is something I b
 
 ## Contact
 
-- Email: tim@iteachyouai.com
-- LinkedIn: [in/timhieshima](https://www.linkedin.com/in/timhieshima/)
+- LinkedIn: [in/timothyyjoo](https://www.linkedin.com/in/timothyyjoo/)
 - GitHub: [tjp2021](https://github.com/tjp2021)
